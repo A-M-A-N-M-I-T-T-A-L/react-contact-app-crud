@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id" : "1",
+      "name" : "Aman",
+      "email" : "aman.mittal984@gmail.com"
+    },
+    {
+      "id": "223a1de0-fc25-4d20-92fe-410a564103a2",
+      "name": "Levi",
+      "email": "Ackermann"
+    },
+    {
+      "id": "13f18cfe-9389-46dc-a45c-64526bbc1e00",
+      "name": "Eren",
+      "email": "Yeager"
+    },
+    {
+      "id": "f3e1e905-69a2-49a1-af26-addf88f07129",
+      "name": "Armin",
+      "email": "Arlert"
+    },
+    {
+      "id": "87cba94e-e2f1-48ea-90ba-2da3bc2965a7",
+      "name": "Mikasa",
+      "email": "Ackermann"
+    }
+  ]
+}
